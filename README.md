@@ -1,1 +1,0 @@
-# Qasim-Hassan---Capstone-Project-Week-2

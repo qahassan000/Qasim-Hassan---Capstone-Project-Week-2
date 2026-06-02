@@ -31,7 +31,13 @@ The raw dataset contained 133,907 transactions spanning December 2010 to Decembe
 - **The mean customer spend (£332) is nearly double the median (£191)** — a classic Pareto distribution confirming that a small number of high-value customers skew the average significantly upward.
 
 ---
+Here are the charts used to view some of the findings:
+<img width="1235" height="695" alt="page1_overview" src="https://github.com/user-attachments/assets/14f3fd11-cd4d-421b-8669-e088eaa22247" />
 
+
+<img width="1237" height="698" alt="page2_segments" src="https://github.com/user-attachments/assets/cec6a397-26b9-41ad-a2ba-e2f27448107d" />
+
+---
 ## Tools Used
 
 | Tool | Purpose |

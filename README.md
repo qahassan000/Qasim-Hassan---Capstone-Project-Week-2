@@ -33,6 +33,13 @@ The raw dataset of 133,907 transactions was cleaned by removing rows with missin
 - **The four-cluster segmentation explains 84.9% of total variance in customer behaviour** (R²=0.849), with Frequency best captured (R²=0.889) and Recency most variable within clusters (R²=0.811).
 
 ---
+## Visualizations
+The charts used to visualize some of the findings:
+<img width="1235" height="695" alt="page1_overview" src="https://github.com/user-attachments/assets/be4b0a82-3eae-453b-b9fe-db010028e583" />
+
+<img width="1237" height="698" alt="page2_segments" src="https://github.com/user-attachments/assets/66522d32-e77e-45a3-a4d3-630b24a2557d" />
+
+---
 
 ## Tools Used
 
